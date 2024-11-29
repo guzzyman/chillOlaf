@@ -6,8 +6,6 @@ Welcome to the $CHILLOLAF project! $CHILLOLAF is a community-driven, innovative 
 - [Introduction](#introduction)
 - [Features](#features)
 - [How to Buy $CHILLOLAF](#how-to-buy-chillolaf)
-- [Roadmap](#roadmap)
-- [Tokenomics](#tokenomics)
 - [Community & Support](#community--support)
 - [Contributing](#contributing)
 - [License](#license)
@@ -42,39 +40,6 @@ You can buy $CHILLOLAF via popular decentralized exchanges (DEXs) like Uniswap, 
 5. **Swap ETH/BNB for $CHILLOLAF**: Choose how much ETH or BNB you want to swap, then hit "Swap" to purchase $CHILLOLAF tokens.
 
 For more details, please visit our [Official Website](#).
-
----
-
-## Roadmap
-
-### Phase 1: Launch and Community Building
-- Launch $CHILLOLAF token on DEX
-- Build community through social media, Telegram, and Discord
-- Engage with influencers and partnerships
-
-### Phase 2: Ecosystem Development
-- Develop staking pools and yield farming opportunities
-- Launch the $CHILLOLAF wallet
-- Implement further token use cases
-
-### Phase 3: Long-term Growth
-- Expand $CHILLOLAF's presence in real-world use cases
-- Further partnerships with DeFi projects
-- Organize community events and airdrops
-
----
-
-## Tokenomics
-
-| **Category**       | **Percentage** |
-|--------------------|----------------|
-| **Liquidity Pool** | 50%            |
-| **Community Rewards** | 20%            |
-| **Marketing**      | 15%            |
-| **Team & Development** | 10%           |
-| **Reserves**       | 5%             |
-
-**Total Supply**: 1,000,000,000 $CHILLOLAF
 
 ---
 
